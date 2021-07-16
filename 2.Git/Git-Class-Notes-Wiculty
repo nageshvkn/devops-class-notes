@@ -283,12 +283,7 @@ Git stores each change as SHA values but SVN uses simple numbers as revisions.
 
 Qns:
 ====
-1. How to clone a particular directory from remote.
-2. Can we clone a single file from remote repository?
-3. git stash
-
-Pending:
-1. How do you make previous commit as latest
-2. How do you resurruct a deleted file?
+1. forking repository
+2. 
 
 
